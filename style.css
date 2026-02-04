@@ -1,0 +1,108 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+
+header {
+    justify-content: space-between;
+    padding: 34px;
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.button {
+    background-color: #36bbce;
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+}
+
+nav {
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    padding: 25px 100px 25px 95px;
+    justify-content: space-between;
+    display:flex;
+}
+
+.nav-link {
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 36px;
+    margin-top: 5px;
+    margin-bottom: 80px;
+}
+
+p {
+    font-size: 24px;
+}
+
+.info {
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 0px auto;
+    display: flex;
+}
+
+article {
+    background-color: white;
+    padding: 60px 37px 135px 53px;
+    width: 400px;
+    margin: 19px;
+    text-align: center;
+}
+
+.article-but {
+    text-decoration: none;
+    background-color: grey;
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+}
+
+footer {
+    background-color: #AC13A6;
+    padding: 45px 27px;
+    display: flex;
+}
+
+footer a {
+    margin-right: 75px;
+}
+
+footer p {
+    font-size: 24px;
+}
+
+.brown {
+    background-color: #A1652D;
+}
+
+.green {
+    background-color: #33AA00;
+}
+
+.red {
+    background-color: #AC1313;
+}
+
+.purple {
+    background-color: #AC13A6;
+}
+
+main p {
+    text-align: center;
+}
+
+main h2 {
+    text-align: center;
+}
